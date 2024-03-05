@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="50" passed="50" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T10:51:11 IST" name="EMI Calculator" finished-at="2024-03-05T10:53:08 IST" duration-ms="116285">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T10:51:11 IST" name="ChromeTest" finished-at="2024-03-05T10:53:08 IST" duration-ms="116285">
+      <class name="testCases.TC005_LoanTenureCalc">
+        <test-method signature="validateAmountSlider()[pri:39, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:52:55 IST" name="validateAmountSlider" finished-at="2024-03-05T10:52:57 IST" duration-ms="1562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountSlider -->
+        <test-method signature="validateAmountUnit()[pri:40, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:52:57 IST" name="validateAmountUnit" finished-at="2024-03-05T10:52:57 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountUnit -->
+        <test-method signature="validateAmountscale()[pri:41, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:52:57 IST" name="validateAmountscale" finished-at="2024-03-05T10:52:57 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountscale -->
+        <test-method signature="validateEMIUnit()[pri:42, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:52:58 IST" name="validateEMIUnit" finished-at="2024-03-05T10:52:58 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEMIUnit -->
+        <test-method signature="validateEMIscale()[pri:43, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:52:58 IST" name="validateEMIscale" finished-at="2024-03-05T10:52:58 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEMIscale -->
+        <test-method signature="validateInterestSlider()[pri:44, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:52:58 IST" name="validateInterestSlider" finished-at="2024-03-05T10:53:00 IST" duration-ms="1477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestSlider -->
+        <test-method signature="validateInterestUnit()[pri:45, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:53:00 IST" name="validateInterestUnit" finished-at="2024-03-05T10:53:00 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestUnit -->
+        <test-method signature="validateInterestscale()[pri:46, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:53:00 IST" name="validateInterestscale" finished-at="2024-03-05T10:53:00 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestscale -->
+        <test-method signature="validatefncSlider()[pri:47, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:53:01 IST" name="validatefncSlider" finished-at="2024-03-05T10:53:02 IST" duration-ms="1296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncSlider -->
+        <test-method signature="validateEMISlider()[pri:48, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:53:02 IST" name="validateEMISlider" finished-at="2024-03-05T10:53:04 IST" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEMISlider -->
+        <test-method signature="validatefncUnit()[pri:49, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:53:04 IST" name="validatefncUnit" finished-at="2024-03-05T10:53:04 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncUnit -->
+        <test-method signature="validatefncscale()[pri:50, instance:testCases.TC005_LoanTenureCalc@5c5eefef]" started-at="2024-03-05T10:53:04 IST" name="validatefncscale" finished-at="2024-03-05T10:53:04 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncscale -->
+      </class> <!-- testCases.TC005_LoanTenureCalc -->
+      <class name="testCases.TC004_LoanAmountCalc">
+        <test-method signature="validateEMISlider()[pri:27, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:45 IST" name="validateEMISlider" finished-at="2024-03-05T10:52:47 IST" duration-ms="1928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEMISlider -->
+        <test-method signature="validateEMIUnit()[pri:28, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:48 IST" name="validateEMIUnit" finished-at="2024-03-05T10:52:48 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEMIUnit -->
+        <test-method signature="validateEMIscale()[pri:29, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:48 IST" name="validateEMIscale" finished-at="2024-03-05T10:52:48 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEMIscale -->
+        <test-method signature="validateInterestSlider()[pri:30, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:48 IST" name="validateInterestSlider" finished-at="2024-03-05T10:52:50 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestSlider -->
+        <test-method signature="validateInterestUnit()[pri:31, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:50 IST" name="validateInterestUnit" finished-at="2024-03-05T10:52:50 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestUnit -->
+        <test-method signature="validateInterestscale()[pri:32, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:50 IST" name="validateInterestscale" finished-at="2024-03-05T10:52:50 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestscale -->
+        <test-method signature="validateTenureSlider()[pri:33, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:51 IST" name="validateTenureSlider" finished-at="2024-03-05T10:52:52 IST" duration-ms="1276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTenureSlider -->
+        <test-method signature="validateTenurescale()[pri:34, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:52 IST" name="validateTenurescale" finished-at="2024-03-05T10:52:52 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTenurescale -->
+        <test-method signature="validatefncSlider()[pri:35, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:52 IST" name="validatefncSlider" finished-at="2024-03-05T10:52:54 IST" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncSlider -->
+        <test-method signature="validatefncUnit()[pri:36, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:54 IST" name="validatefncUnit" finished-at="2024-03-05T10:52:54 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncUnit -->
+        <test-method signature="validatefncscale()[pri:37, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:54 IST" name="validatefncscale" finished-at="2024-03-05T10:52:54 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncscale -->
+        <test-method signature="clickOnloanTenureCalcBtn()[pri:38, instance:testCases.TC004_LoanAmountCalc@222545dc]" started-at="2024-03-05T10:52:55 IST" name="clickOnloanTenureCalcBtn" finished-at="2024-03-05T10:52:55 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnloanTenureCalcBtn -->
+      </class> <!-- testCases.TC004_LoanAmountCalc -->
+      <class name="testCases.TC003_EMICalc">
+        <test-method signature="clickOnLoanCalBtn()[pri:14, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:33 IST" name="clickOnLoanCalBtn" finished-at="2024-03-05T10:52:34 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoanCalBtn -->
+        <test-method signature="validateAmountSlider()[pri:15, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:34 IST" name="validateAmountSlider" finished-at="2024-03-05T10:52:35 IST" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountSlider -->
+        <test-method signature="validateAmountUnit()[pri:16, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:36 IST" name="validateAmountUnit" finished-at="2024-03-05T10:52:36 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountUnit -->
+        <test-method signature="validateAmountscale()[pri:17, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:36 IST" name="validateAmountscale" finished-at="2024-03-05T10:52:36 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountscale -->
+        <test-method signature="validateInterestSlider()[pri:18, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:36 IST" name="validateInterestSlider" finished-at="2024-03-05T10:52:38 IST" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestSlider -->
+        <test-method signature="validateInterestUnit()[pri:19, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:38 IST" name="validateInterestUnit" finished-at="2024-03-05T10:52:38 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestUnit -->
+        <test-method signature="validateInterestscale()[pri:20, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:38 IST" name="validateInterestscale" finished-at="2024-03-05T10:52:39 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestscale -->
+        <test-method signature="validateTenureSlider()[pri:21, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:39 IST" name="validateTenureSlider" finished-at="2024-03-05T10:52:40 IST" duration-ms="1309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTenureSlider -->
+        <test-method signature="validateTenurescale()[pri:22, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:41 IST" name="validateTenurescale" finished-at="2024-03-05T10:52:42 IST" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTenurescale -->
+        <test-method signature="validatefncSlider()[pri:23, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:42 IST" name="validatefncSlider" finished-at="2024-03-05T10:52:43 IST" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncSlider -->
+        <test-method signature="validatefncUnit()[pri:24, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:44 IST" name="validatefncUnit" finished-at="2024-03-05T10:52:44 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncUnit -->
+        <test-method signature="validatefncscale()[pri:25, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:44 IST" name="validatefncscale" finished-at="2024-03-05T10:52:44 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefncscale -->
+        <test-method signature="clickOnLoanAmtCalcBtn()[pri:26, instance:testCases.TC003_EMICalc@6ae5aa72]" started-at="2024-03-05T10:52:45 IST" name="clickOnLoanAmtCalcBtn" finished-at="2024-03-05T10:52:45 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoanAmtCalcBtn -->
+      </class> <!-- testCases.TC003_EMICalc -->
+      <class name="testCases.TC002_homeLoan">
+        <test-method signature="HomeLoanTable()[pri:12, instance:testCases.TC002_homeLoan@6c64cb25]" started-at="2024-03-05T10:52:00 IST" name="HomeLoanTable" finished-at="2024-03-05T10:52:30 IST" duration-ms="29083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoanTable -->
+        <test-method signature="NavigateToLoanCalculators()[pri:13, instance:testCases.TC002_homeLoan@6c64cb25]" started-at="2024-03-05T10:52:30 IST" name="NavigateToLoanCalculators" finished-at="2024-03-05T10:52:33 IST" duration-ms="3370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToLoanCalculators -->
+      </class> <!-- testCases.TC002_homeLoan -->
+      <class name="testCases.TC001_carLoan">
+        <test-method is-config="true" signature="driverSetup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:12 IST" name="driverSetup" finished-at="2024-03-05T10:51:43 IST" duration-ms="30547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="clickOnCarLoanBtn()[pri:1, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:43 IST" name="clickOnCarLoanBtn" finished-at="2024-03-05T10:51:44 IST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCarLoanBtn -->
+        <test-method signature="LoanAmount()[pri:2, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:44 IST" name="LoanAmount" finished-at="2024-03-05T10:51:45 IST" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanAmount -->
+        <test-method signature="LoanInt()[pri:3, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:46 IST" name="LoanInt" finished-at="2024-03-05T10:51:46 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanInt -->
+        <test-method signature="LoanTenure()[pri:4, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:47 IST" name="LoanTenure" finished-at="2024-03-05T10:51:47 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanTenure -->
+        <test-method signature="emiAdvance()[pri:5, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:48 IST" name="emiAdvance" finished-at="2024-03-05T10:51:48 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emiAdvance -->
+        <test-method signature="yearTableAdv()[pri:6, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:48 IST" name="yearTableAdv" finished-at="2024-03-05T10:51:52 IST" duration-ms="3301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yearTableAdv -->
+        <test-method signature="pri_int_adv()[pri:7, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:52 IST" name="pri_int_adv" finished-at="2024-03-05T10:51:52 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pri_int_adv -->
+        <test-method signature="emiArrears()[pri:8, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:52 IST" name="emiArrears" finished-at="2024-03-05T10:51:53 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emiArrears -->
+        <test-method signature="yearTableArr()[pri:9, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:53 IST" name="yearTableArr" finished-at="2024-03-05T10:51:56 IST" duration-ms="3285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yearTableArr -->
+        <test-method signature="pri_int_arr()[pri:10, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:56 IST" name="pri_int_arr" finished-at="2024-03-05T10:51:57 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pri_int_arr -->
+        <test-method signature="navToHomeLoanCalc()[pri:11, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:51:57 IST" name="navToHomeLoanCalc" finished-at="2024-03-05T10:52:00 IST" duration-ms="3077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navToHomeLoanCalc -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_carLoan@6572421]" started-at="2024-03-05T10:53:05 IST" name="tearDown" finished-at="2024-03-05T10:53:08 IST" duration-ms="3183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_carLoan -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- EMI Calculator -->
+</testng-results>
